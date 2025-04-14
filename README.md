@@ -12,6 +12,11 @@ En este informe se busca asesorar al dueño de **cuatro tiendas** con el fin de 
 
 ----
 
+## 📁 Estructura del proyecto
+
+`🗀base-de-datos-challenge1-latam:` Carpeta que posee todos archivos `.csv` que se utilizaron para el analisis <br>
+`🖶AluraStoreLatam.ipynb:` Archivo donde se ejectuta el proceso de limpieza y analisis de los archivos presente en la carpeta anteriormente mencionada
+
 ## 🏬 Análisis por Tienda
 
 ### 🔹 Tienda 1
