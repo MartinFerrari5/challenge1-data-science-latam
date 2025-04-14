@@ -1,4 +1,4 @@
-# 🛒 Análisis de Tiendas
+# 🛒 Análisis de Tiendas Challenge Data Science Latam
 
 ## 📊 Objetivo del Análisis
 
