@@ -1,4 +1,4 @@
-# 🛒 Análisis de Tiendas Challenge Data Science Latam
+# 🛒 Análisis de Tiendas: Challenge Data Science Alura Latam
 
 ## 📊 Objetivo del Análisis
 
